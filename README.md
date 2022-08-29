@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JRigooo
 
-- 👀 I’m interested in a web development.
+- 👀 I’m interested in a  .net/C#
 
-- 🌱 I’m currently learning Javascript.
+- 🌱 I’m currently acquiring new knowledge.
 
 - 💞️ I’m looking to collaborate on proyects for learn.
 
